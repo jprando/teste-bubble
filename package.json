@@ -1,0 +1,16 @@
+{
+  "name": "teste-bubble",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@tsed/core": "^7.35.1",
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "mongobubble": "^1.2.2",
+    "mongodb": "^6.0.0"
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "mikestead.dotenv",
+        "usernamehw.errorlens",
+        "christian-kohler.path-intellisense",
+        "dbaeumer.vscode-eslint",
+        "mhutchie.git-graph",
+        "visualstudioexptteam.vscodeintellicode",
+        "shardulm94.trailing-spaces"
+    ]
+}
